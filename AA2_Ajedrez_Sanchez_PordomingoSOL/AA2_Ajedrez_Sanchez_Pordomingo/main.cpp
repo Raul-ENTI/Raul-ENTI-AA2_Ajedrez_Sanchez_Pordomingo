@@ -1,6 +1,10 @@
-#include <iostream>
+#include "Const.h"
+#include "Chessboard.h"
 
 int main() {
+	char chessboard[BOARD_SIZE][BOARD_SIZE];
 
-	return 0;
+	initChessBoard(chessboard);
+	viewChessBoard(chessboard);
+
 }
