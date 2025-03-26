@@ -1,0 +1,109 @@
+﻿  Init.cpp
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,6): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,12): error C2143: syntax error: missing ';' before '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,12): error C2059: syntax error: '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,6): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,12): error C2143: syntax error: missing ';' before '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,6): error C2086: 'int vector': redefinition
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,6): message : see declaration of 'vector'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,12): error C2059: syntax error: '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,42): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,6): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,12): error C2143: syntax error: missing ';' before '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,6): error C2086: 'int vector': redefinition
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,6): message : see declaration of 'vector'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,12): error C2059: syntax error: '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,40): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,70): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(16,57): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(16,57): error C2061: syntax error: identifier 'vector'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\utils.h(11,7): error C2039: 'vector': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\utils.h(11,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\utils.h(11,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\utils.h(11,27): error C2238: unexpected token(s) preceding ';'
+  main.cpp
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,6): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,12): error C2143: syntax error: missing ';' before '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,12): error C2059: syntax error: '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,6): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,12): error C2143: syntax error: missing ';' before '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,6): error C2086: 'int vector': redefinition
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,6): message : see declaration of 'vector'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,12): error C2059: syntax error: '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,42): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,6): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,12): error C2143: syntax error: missing ';' before '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,6): error C2086: 'int vector': redefinition
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,6): message : see declaration of 'vector'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,12): error C2059: syntax error: '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,40): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,70): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(16,57): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(16,57): error C2061: syntax error: identifier 'vector'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\utils.h(11,7): error C2039: 'vector': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\utils.h(11,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\utils.h(11,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\utils.h(11,27): error C2238: unexpected token(s) preceding ';'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\main.cpp(5,32): error C3861: 'initPieces': identifier not found
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\main.cpp(6,37): error C3861: 'initPosPieces': identifier not found
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\main.cpp(7,37): error C3861: 'initPieceList': identifier not found
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\main.cpp(14,2): error C2660: 'play': function does not take 2 arguments
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(16,6): message : see declaration of 'play'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\main.cpp(14,2): message : while trying to match the argument list '(char [8][8], std::vector<Pieces,std::allocator<Pieces>>)'
+  Play.cpp
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,6): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,12): error C2143: syntax error: missing ';' before '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,12): error C2059: syntax error: '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,6): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,12): error C2143: syntax error: missing ';' before '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,6): error C2086: 'int vector': redefinition
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,6): message : see declaration of 'vector'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,12): error C2059: syntax error: '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(12,42): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,6): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,12): error C2143: syntax error: missing ';' before '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,6): error C2086: 'int vector': redefinition
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(4,6): message : see declaration of 'vector'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,12): error C2059: syntax error: '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,40): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(14,70): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(16,57): error C2039: 'vector': is not a member of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\Init.h(16,57): error C2061: syntax error: identifier 'vector'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\utils.h(11,7): error C2039: 'vector': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\iostream(19,1): message : see declaration of 'std'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\utils.h(11,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\utils.h(11,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\RaulSanchezRuf\Documents\GitHub\AA2_Ajedrez_Sanchez_Pordomingo\AA2_Ajedrez_Sanchez_PordomingoSOL\AA2_Ajedrez_Sanchez_Pordomingo\utils.h(11,27): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
